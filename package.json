@@ -27,7 +27,7 @@
     "@types/puppeteer": "^3.0.1",
     "@types/uuid": "^8.0.0",
     "eslint": "^7.5.0",
-    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-node": "^11.1.0",
