@@ -1,0 +1,11 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "--platform=",
+				"tag": "latest",
+				"digest": ""
+			}
+		]
+	}
+}
